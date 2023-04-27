@@ -1,3 +1,11 @@
+/*
+ * @Author: zous 18310002219@163.com
+ * @Date: 2023-04-27 11:09:30
+ * @LastEditors: zous 18310002219@163.com
+ * @LastEditTime: 2023-04-27 11:12:51
+ * @FilePath: /react-learn-lesson/salted-fish/src/App.jsx
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
@@ -16,7 +24,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Vite + React + hdw</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
